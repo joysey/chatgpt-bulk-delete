@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "ChatGPT 일괄 삭제",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "고급 안전 기능으로 ChatGPT 대화 기록을 효율적으로 관리 및 일괄 삭제",
+    "description": "Extension description"
+  }
+} 

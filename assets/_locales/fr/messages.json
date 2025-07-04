@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Bulk Delete ChatGPT history Conversations",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "Gérez efficacement et supprimez en masse l'historique de vos conversations ChatGPT avec des fonctionnalités de sécurité avancées",
+    "description": "Extension description"
+  }
+} 

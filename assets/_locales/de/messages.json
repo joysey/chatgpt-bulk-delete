@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "ChatGPT Batch Delete",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "Verwalten und löschen Sie Ihren ChatGPT-Konversationsverlauf effizient und in großen Mengen mit erweiterten Sicherheitsfunktionen",
+    "description": "Extension description"
+  }
+} 

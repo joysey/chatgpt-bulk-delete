@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "ChatGPT 批次刪除",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "高效管理並批次刪除您的 ChatGPT 對話歷史，配備進階安全功能",
+    "description": "Extension description"
+  }
+} 
